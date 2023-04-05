@@ -2,6 +2,9 @@ import numpy as np
 import torch
 import time
 import cv2 as cv
+import sys 
+sys.path.insert(0, '/content/project_test')
+
 from dataloader.dataloader import AVSRDataLoader
 from tracker.face_tracker import FaceTracker
 
