@@ -1,1 +1,1 @@
-Newfolder/** filter=lfs diff=lfs merge=lfs -text
+Newfolder/ filter=lfs diff=lfs merge=lfs -text
