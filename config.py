@@ -3,9 +3,9 @@ args = dict()
 
 
 #project structure
-args["DEMO_DIRECTORY"] = "/content/folder/demo"   #absolute path to the demo directory
-args["TRAINED_MODEL_FILE"] = "/content/folder/weights/pretrain_001w-step_0026-wer_0.185.pt" #relative path to the trained model file
-args["TRAINED_FRONTEND_FILE"] = "/content/folder/weights/visual_frontend.pt" #absolute path to the trained visual frontend file
+args["DEMO_DIRECTORY"] = "/content/project_test/demo"   #absolute path to the demo directory
+args["TRAINED_MODEL_FILE"] = "/content/lstArab100words/Newfolder/pretrain_001w-step_0026-wer_0.185.pt" #relative path to the trained model file
+args["TRAINED_FRONTEND_FILE"] = "/content/lstArab100words/Newfolder/visual_frontend.pt" #absolute path to the trained visual frontend file
 
 
 #data
