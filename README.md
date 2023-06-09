@@ -4,7 +4,10 @@ Our application works to support Visual Speech Recognition (VSR) is
 the ability to recognize words from the mouth movements of a speaking 
 person Lip reading in arabic language,the system using a locally collected dataset that 
 was prepared and photographed through us, and the number of videos 
-(9000)
+(9000), You can find more details in our paper https://drive.google.com/file/d/1BWz3w1ROAAkX-OTQ4M48H2ZscHTPzLFd/view?usp=drive_link
+We are students from the Faculty of Computing and Artificial Intelligence, Helwan University, who made this system
+
+# How To Use and Running the demo of the project
 
 # Requirements
 <h4>fastapi<h4/>
@@ -16,10 +19,8 @@ was prepared and photographed through us, and the number of videos
 <h4>pypi-json<h4/>
 <h4>pyngrok==4.1.1<h4/>
 
-# Project Structure
-#### Files
-
 # We train the model using two types of dataset
+  ### the sample of this words in words.txt file
 #### YouTube dataset
   
 In the beginning, we will talk about the first approach to building our owndatabase, which is by collecting videos from YouTube each video isbetween 3 and 7 seconds long and 25 fps. We take from multiple channel ex sada Elbalad and different platforms about 50 people (20males an 30 females), And we have collected 6,000 videos, and it isentered in several stages to be prepared for processing.
@@ -36,7 +37,8 @@ The multiple stages are:
 Now, we will talk about the second approach to building our database,where in this approach we photographed people with our mobilecamera. 9000 videos were captured for different participants from both genders (i.e. 24 females and 62 males). Age range is 13 to 75 years from the same country. . The videos of the dataset are captured with different background lighting settings, different distances, and using cameras of multismartphones.
 Different cameras, distances, and background lighting settings guarantee dataset generalization. All used cameras record videos at a rate of 30 frames per second (fps). All 86 speakers uttered each one of the 100 words once (i.e. 9000 videos)
 This ensures the inclusiveness of the dataset because there are many diversities between people that need to be accounted for, such as: Speediness of speaking, mouth shape and movements, lips geometric features, amount of tongue determined by the redness of the taken mouth frame, the alveolar ridge, teeth, braces, mustache, beard, and makeup.
-
+  
+If you want to use dataset for future work, you can contact a member of our team to take it we provide preprocssing video only now .
 
 # Preprocessing
 
@@ -48,13 +50,16 @@ One of the most important steps in our application tasks is to preprocess and sp
 5) Each frame is resized to 112X112 pixels in order to reduce the dataset size without affecting the accuracy.
 6) Each pixel value in a frame is normalized to a range between 0 and  1 without distorting differences between the frame’s pixels. This is achieved by dividing each pixel value by 255.
 
+# Project Structure
+### Important Training Details
+During the implementation phase of our application, deep learning models were investigated in order to test the one with the highest recognition accuracy for the Arabic words using the dataset described in subsection dataset .
 
-# How to test
-
-
+We pretrain backend with You Tupe videos with fine tuning and train frontend model with camera videos and freeze another layer andmake end to end train model which means 2 model trainingwithout freeze in camera dataset with new face trackerprocessing not cutting with fixed size like paper[1] and made Merge model combine 2 model vf with backend to train vf with transfromer not 2 temp 2 layer CNN as backend that is occurred before in paper[1].
+Finally, train this model with different lengths of char ... means backend when You Tube fixed 145 frames with padding and change it 15to 100 when camera dataset and in end-to-end train ... make it variable mean changes to change of frames of video.Output of model is probabilities of SoftMax layer for 40 num classes and loss depend on CTC with greedy search to backward and train model ..made front-end with beam search 100 beam width.Greedy we take the best path in alternative paths and beam walk as tree take the best 100 every alternative paths
+  
 
 ## Pre-trained Weights
-If you want to use pre-trained weights for future workers, you can contact a member of our team to take it .
+If you want to use pre-trained weights for future work, you can contact a member of our team to take it .
 
 
 
