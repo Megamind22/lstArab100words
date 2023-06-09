@@ -10,7 +10,7 @@ We are students from the Faculty of Computing and Artificial Intelligence, Helwa
 
 Video Input                      |  Processed Input          |  Speech Output 
 :-------------------------:|:-------------------------:|:-------------------------:
-![](images/face.gif)       |  ![](images/mouth.gif)    |  ![](images/wav.gif)
+![Uploading 33.gif…]()       |  ![](images/mouth.gif)    |  ![](images/wav.gif)
 
 
 
