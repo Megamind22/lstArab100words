@@ -27,6 +27,13 @@ Video Input                      |  Processed Input          |  output in our ap
 
 
 # How To Use and Running the demo of the project
+1- download and extract the code.
+  
+2- run the file call demo.ipynb.
+  
+3- use the api address that appear for you from running demo.ipynb in test_api.py file .
+  
+4- change the video path you want to test in test_api.py file.
 
 
 
