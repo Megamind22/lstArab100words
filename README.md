@@ -4,8 +4,8 @@ Our application works to support Visual Speech Recognition (VSR) is
 the ability to recognize words from the mouth movements of a speaking 
 person Lip reading in arabic language,the system using a locally collected dataset that 
 was prepared and photographed through us, and the number of videos 
-(9000), You can find more details in our paper https://drive.google.com/file/d/1BWz3w1ROAAkX-OTQ4M48H2ZscHTPzLFd/view?usp=drive_link
-We are students from the Faculty of Computing and Artificial Intelligence, Helwan University, who made this system
+(9000), You can find more details in our paper coming soon.
+We are students from the Faculty of Computers and Artificial Intelligence, Helwan University, who made this system
 
 
 Video Input                      |  Processed Input          |  output in our application 
@@ -56,7 +56,7 @@ Now, we will talk about the second approach to building our database,where in th
 Different cameras, distances, and background lighting settings guarantee dataset generalization. All used cameras record videos at a rate of 30 frames per second (fps). All 86 speakers uttered each one of the 100 words once (i.e. 9000 videos)
 This ensures the inclusiveness of the dataset because there are many diversities between people that need to be accounted for, such as: Speediness of speaking, mouth shape and movements, lips geometric features, amount of tongue determined by the redness of the taken mouth frame, the alveolar ridge, teeth, braces, mustache, beard, and makeup.
   
-If you want to use dataset for future work, you can contact a member of our team to take it we provide preprocssing video only now .
+### If you want to use dataset for future work, you can contact a member of our team to take it we provide preprocssing video only now .
 
 # Preprocessing
 
@@ -93,12 +93,10 @@ If you want to use pre-trained weights for future work, you can contact a member
 </thead>
 <tbody>
   <tr>
-    <td></td>
-    <td>Greedy accuracy</td>
   </tr>
   <tr>
     <td>VO</td>
-    <td>60.2%</td>
+    <td>Greedy accuracy</td>
     <td>39.8%</td>
     <td>28.1%</td>
   </tr>
@@ -114,7 +112,7 @@ If you want to use pre-trained weights for future work, you can contact a member
 
 
 # License
-All rights reserved to our teams who made the model and developed it and built the application
+All rights reserved to our teams who update the model and developed it and built the application
 
 
 # Contact
@@ -122,7 +120,7 @@ You can communicate through one of team by following e-mails to obtain the pre-t
 
 1- mohamedgasser230@gmail.com
 
-2- 01062416052ss@gmail.com
+2- mohameda.shaker16@gmail.com
 
 3- Ma7157563@gmail.com
 
