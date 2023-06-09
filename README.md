@@ -10,7 +10,8 @@ We are students from the Faculty of Computing and Artificial Intelligence, Helwa
 
 Video Input                      |  Processed Input          |  Speech Output 
 :-------------------------:|:-------------------------:|:-------------------------:
-![Uploading 33.gif…]()       |  ![](images/mouth.gif)    |  ![](images/wav.gif)
+![input video](https://github.com/Megamind22/lstArab100words/assets/102036714/7aac6787-e5bf-4e92-99c4-33aa98e0b239)
+      |  ![](images/mouth.gif)    |  ![](images/wav.gif)
 
 
 
