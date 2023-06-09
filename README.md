@@ -7,7 +7,12 @@ was prepared and photographed through us, and the number of videos
 (9000), You can find more details in our paper https://drive.google.com/file/d/1BWz3w1ROAAkX-OTQ4M48H2ZscHTPzLFd/view?usp=drive_link
 We are students from the Faculty of Computing and Artificial Intelligence, Helwan University, who made this system
 
-# How To Use and Running the demo of the project
+
+Video Input                      |  Processed Input          |  Speech Output 
+:-------------------------:|:-------------------------:|:-------------------------:
+![](images/face.gif)       |  ![](images/mouth.gif)    |  ![](images/wav.gif)
+
+
 
 # Requirements
 <h4>fastapi<h4/>
@@ -18,6 +23,11 @@ We are students from the Faculty of Computing and Artificial Intelligence, Helwa
 <h4>requests<h4/>
 <h4>pypi-json<h4/>
 <h4>pyngrok==4.1.1<h4/>
+
+
+# How To Use and Running the demo of the project
+
+
 
 # We train the model using two types of dataset
   ### the sample of this words in words.txt file
@@ -121,7 +131,7 @@ https://github.com/smeetrs/deep_avsr GitHub repository.
 
 3- We used the LRW, LRS2 and LRS3 lip reading datasets from the BBC https://www.robots.ox.ac.uk/~vgg/data/lip_reading/
 
-
+4-  We used https://github.com/feldberlin/timething.git to Calculate timestamp 
 
 
 
