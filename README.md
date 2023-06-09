@@ -96,7 +96,7 @@ If you want to use pre-trained weights for future work, you can contact a member
   </tr>
   <tr>
     <td>VO</td>
-    <td>Greedy accuracy</td>
+    <td>Greedy</td>
     <td>39.8%</td>
     <td>28.1%</td>
   </tr>
