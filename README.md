@@ -1,4 +1,4 @@
-# Deep Visual Speech Recognition  for lstArab100words
+# Word-Level LipReading in Arabic
 
 Our application works to support Visual Speech Recognition (VSR) is 
 the ability to recognize words from the mouth movements of a speaking 
