@@ -8,6 +8,7 @@ was prepared and photographed through us, and the number of videos
 We are students from the Faculty of Computers and Artificial Intelligence, Helwan University, who made this system
 
 
+### Just a bronze 🥉 .. [over 150 participating Teams around Egypt](https://www.alkhaleej.ae/2023-09-26/3-%D9%81%D8%B1%D9%82-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA)
 <div align="center">
 <img src='https://github.com/Megamind22/lstArab100words/assets/102037791/d351602c-2950-4381-9fe3-044c3fc7dc2c.png' width='500'>
 </div>
