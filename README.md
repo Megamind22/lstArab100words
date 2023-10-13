@@ -8,6 +8,10 @@ was prepared and photographed through us, and the number of videos
 We are students from the Faculty of Computers and Artificial Intelligence, Helwan University, who made this system
 
 
+<div align="center">
+<img src='https://github.com/Megamind22/lstArab100words/assets/102037791/d351602c-2950-4381-9fe3-044c3fc7dc2c.png' width='500'>
+</div>
+
 Video Input                      |  Processed Input          |  output in our application 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![input video](https://github.com/Megamind22/lstArab100words/assets/102036714/7aac6787-e5bf-4e92-99c4-33aa98e0b239)|![image](https://github.com/Megamind22/lstArab100words/assets/102036714/74ae9d7f-c3fe-454f-ab3c-fd769df85dbd)|![output](https://github.com/Megamind22/lstArab100words/assets/102036714/f296bec6-db7e-48a6-8b5f-aa4c84fbae07)
