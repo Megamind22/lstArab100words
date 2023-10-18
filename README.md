@@ -4,7 +4,7 @@ Our application works to support Visual Speech Recognition (VSR) is
 the ability to recognize words from the mouth movements of a speaking 
 person Lip reading in arabic language,the system using a locally collected dataset that 
 was prepared and photographed through us, and the number of videos 
-(9000), more details in [cite  Shaker, Mohamed & Gasser, Mohamed & Moussa, Mohammed. (2023). We Hear What They Say: Lip Reading in Arabic for the Voice Impaired System (LRAVI)  ](https://www.researchgate.net/publication/374752831_We_Hear_What_They_Say_Lip_Reading_in_Arabic_for_the_Voice_Impaired_System_LRAVI) ..In ResearchGate until modifying it publish in journal
+(9000), more details in [PAPER](https://www.researchgate.net/publication/374752831_We_Hear_What_They_Say_Lip_Reading_in_Arabic_for_the_Voice_Impaired_System_LRAVI) ..In ResearchGate until modifying it publish in journal
 
 ### Just a bronze 🥉 .. [over 150 participating Teams around Egypt](https://www.alkhaleej.ae/2023-09-26/3-%D9%81%D8%B1%D9%82-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D9%81%D9%88%D8%B2-%D8%A8%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D9%87%D8%A7%D9%83%D8%A7%D8%AB%D9%88%D9%86-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%AD%D8%B7%D8%A7%D8%AA/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA)
 <div align="center">
